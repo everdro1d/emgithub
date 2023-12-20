@@ -1,6 +1,10 @@
 # emgithub
 
-https://emgithub.com/
+![View GitHub Repository ->](https://github.com/everdro1d/emgithub/)
+
+![Go to Project page ->](https://everdro1d.github.io/projects.html#emgithub)
+
+---
 
 Embed a file from GitHub repository just like [GitHub Gist](https://gist.github.com/).
 
