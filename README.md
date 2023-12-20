@@ -1,8 +1,8 @@
 # emgithub
 
-![View GitHub Repository ->](https://github.com/everdro1d/emgithub/)
+[View GitHub Repository ->](https://github.com/everdro1d/emgithub/)
 
-![Go to Project page ->](https://everdro1d.github.io/projects.html#emgithub)
+[Go to Project page ->](https://everdro1d.github.io/projects.html#emgithub)
 
 ---
 
